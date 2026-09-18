@@ -18,7 +18,17 @@ Create a user-friendly website with clear navigation so that visitors can easily
 Lay the foundation for future enhancements, such as an online application system and student portal.
 ## Key Performance Indicators (KPIs)
 Increase the number of website visitors.
-# Milestones
+
+## Timeline and Milestones
+•	Week 1: Research organisations, gather content and create the website proposals. 
+•	Week 2: Create the sitemap, wireframes and project folder structure. 
+•	Week 3: Develop the HTML structure for all website pages. 
+•	Week 4: Add CSS styling, images and website content. 
+•	Week 5: Add forms, navigation and other interactive elements. 
+•	Week 6: Test the website on desktop, tablet and mobile screen sizes. 
+•	Week 7: Fix errors, improve layout and complete accessibility checks. 
+•	Week 8: Final review, update documentation and prepare the submission.
+
 Research and planning.
 Proposal approval.
 Website structure and sitemap completed.
